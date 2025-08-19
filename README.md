@@ -1,2 +1,10 @@
 # BiSpectral-SE
-Source codes will be released here upon publication of the work titled "Exploiting Bispectral Features for Single-Channel Speech Enhancement"
+
+This repository provides the **bispectral versions** of popular speech enhancement baseline models.  
+The original baseline implementations are taken from their official open-source repositories:
+
+- **[CMGAN](https://github.com/ruizhecao96/CMGAN)**
+- **[MPSENet](https://github.com/yxlu-0102/MP-SENet)**
+
+Please refer to the respective baseline models for their bispectral adaptations in this project.
+
